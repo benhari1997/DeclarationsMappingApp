@@ -1,4 +1,4 @@
-**RShiny - Map data visualisation project :**
+# RShiny - Map data visualisation project :
 ___
 This project is a simple implementation of an RShiny application that displays the spread of the complaints issued by citizens in Paris by region, type and time.
 
