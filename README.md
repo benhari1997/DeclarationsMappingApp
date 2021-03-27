@@ -22,11 +22,12 @@ ___
  - Map display examples :
  
 ![Map-display-dots](examples\map-example-dots.PNG)
+
 ![Map-display-disks](examples\map-example-disks.PNG)
 
  - Statistics example :
 
-![file-edit](examples\map-example-stats.PNG)
+![Map-display-stats](examples\map-example-stats.PNG)
 
 > #### Bibliography : 
 ___
