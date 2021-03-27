@@ -21,13 +21,13 @@ ___
 ___
  - Map display examples :
  
-![Map-display-dots](examples\map-example-dots.PNG)
+![Map-display-dots](https://github.com/benhari1997/DeclarationsMappingApp/tree/main/examples/map-example-dots.PNG)
 
-![Map-display-disks](examples\map-example-disks.PNG)
+![Map-display-disks](https://github.com/benhari1997/DeclarationsMappingApp/tree/main/examples/map-example-disks.PNG)
 
  - Statistics example :
 
-![Map-display-stats](examples\map-example-stats.PNG)
+![Map-display-stats](https://github.com/benhari1997/DeclarationsMappingApp/tree/main/examples/map-example-stats.PNG)
 
 > #### Bibliography : 
 ___
